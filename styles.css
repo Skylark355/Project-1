@@ -484,6 +484,7 @@ p {
   max-width: 1200px;
   margin: 0 auto;
   padding: 100px 20px;
+  margin-top: -100px;
 }
 
 #about .col-left{
@@ -541,6 +542,7 @@ p {
   max-width: 1200px;
   margin: 0 auto;
   width: 98%;
+  margin-top: -300px;
 }
 
 #contact .contact-items{
