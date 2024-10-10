@@ -373,6 +373,7 @@ p {
   font-size: 2rem;
   margin-bottom: 10px;
   text-transform: uppercase;
+  text-align: left;
 }
 
 #services .service-item p {
